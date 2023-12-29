@@ -5,9 +5,9 @@ Create a responsive real estate website by watching this easy to follow step by 
 
 Learn how to create a complete responsive real estate website using HTML, CSS, and JavaScript from scretch by watching this step by stap tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/187407)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/187407)
 
 Thanks,
-[codermj](https://www.youtube.com/@thecodermj/)
+[codermj](https://www.youtube.com/@the.codermj/)
 
 ![complete - responsive realete website design](https://github.com/mjshofy/responsive-real-estate-website/assets/76812554/d43e8fce-05ad-4f6c-a80c-8c2d2f3c070b)
